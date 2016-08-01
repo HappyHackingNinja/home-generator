@@ -29,13 +29,13 @@ class HomePage extends React.Component {
         <section id="index-section" style={{'min-height': '400px'}}>
           <div className="mdl-grid" style={{'text-align': 'center', 'top': '300px', 'position': 'relative'}}>
             <div className="mdl-cell mdl-cell--4-col">
-              <h3><a href="#">WIKI</a></h3>
+              <h3><a href="https://github.com/HappyHackingNinja/HappyHackingNinja.github.io/wiki">WIKI</a></h3>
             </div>
             <div className="mdl-cell mdl-cell--4-col">
-              <h3><a href="#">NOTE</a></h3>
+              <h3><a href="http://happyhacking.ninja/note">NOTE</a></h3>
             </div>
             <div className="mdl-cell mdl-cell--4-col">
-              <h3><a href="#">ABOUT</a></h3>
+              <h3><a href="http://happyhacking.ninja/resume">ABOUT</a></h3>
             </div>
           </div>
         </section>
